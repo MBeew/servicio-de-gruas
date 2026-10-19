@@ -1,0 +1,18 @@
+SERVICIOS DE GRÚA — NETLIFY
+
+1. Descomprime este ZIP.
+2. En la carga manual de Netlify, arrastra la carpeta servicios-gruas-netlify que contiene index.html.
+3. Abre la dirección HTTPS que te entregue Netlify directamente en tu navegador.
+No requiere instalación, compilación, servidor, claves ni funciones.
+
+DESCARGAR Y COPIAR
+Pulsa Descargar imagen, espera la vista previa y pulsa Guardar PNG.
+Para copiar, pulsa Copiar imagen y concede permiso si tu navegador lo solicita.
+En Firefox, si el portapapeles de imágenes no está disponible, haz clic derecho sobre la vista previa y selecciona Copiar imagen.
+También puedes abrir el archivo en otra pestaña y guardarlo desde allí.
+
+DATOS
+Incluye los datos iniciales del archivo actualizado y permite cargar nuevos Excel desde la hoja GRAFICA. Los archivos y filtros permanecen en el navegador del equipo que los carga. La tabla del análisis incluye totales de servicios y valor registrado.
+
+PRIVACIDAD
+El ZIP incluye los datos iniciales. Configura el acceso del sitio según quién deba consultarlos.
